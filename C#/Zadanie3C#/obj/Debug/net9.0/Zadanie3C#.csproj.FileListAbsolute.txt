@@ -1,0 +1,15 @@
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\bin\Debug\net9.0\Zadanie3C#.exe
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\bin\Debug\net9.0\Zadanie3C#.deps.json
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\bin\Debug\net9.0\Zadanie3C#.runtimeconfig.json
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\bin\Debug\net9.0\Zadanie3C#.dll
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\bin\Debug\net9.0\Zadanie3C#.pdb
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\Zadanie3C#.GeneratedMSBuildEditorConfig.editorconfig
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\Zadanie3C#.AssemblyInfoInputs.cache
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\Zadanie3C#.AssemblyInfo.cs
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\Zadanie3C#.csproj.CoreCompileInputs.cache
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\Zadanie3C#.sourcelink.json
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\Zadanie3C#.dll
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\refint\Zadanie3C#.dll
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\Zadanie3C#.pdb
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\Zadanie3C#.genruntimeconfig.cache
+G:\Studia WSB\GIT\ZadaniaNaPrzypomnieniePodstawyProgramowania\C#\Zadanie3C#\obj\Debug\net9.0\ref\Zadanie3C#.dll

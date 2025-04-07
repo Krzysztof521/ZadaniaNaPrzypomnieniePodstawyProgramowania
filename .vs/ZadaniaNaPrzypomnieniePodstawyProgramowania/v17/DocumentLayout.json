@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\Studia WSB\\GIT\\ZadaniaNaPrzypomnieniePodstawyProgramowania\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D53F79-4630-DCA9-D6CC-403A31AD6ACF}|C#\\Zadanie1C#\\Zadanie1C#.csproj|g:\\studia wsb\\git\\zadanianaprzypomnieniepodstawyprogramowania\\c#\\zadanie1c#\\zadanie1c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E1D53F79-4630-DCA9-D6CC-403A31AD6ACF}|C#\\Zadanie1C#\\Zadanie1C#.csproj|solutionrelative:c#\\zadanie1c#\\zadanie1c#.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69A9822A-A1B8-5B26-6C70-498BE1716DFD}|C#\\Zadanie2C#\\Zadanie2C#.csproj|g:\\studia wsb\\git\\zadanianaprzypomnieniepodstawyprogramowania\\c#\\zadanie2c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69A9822A-A1B8-5B26-6C70-498BE1716DFD}|C#\\Zadanie2C#\\Zadanie2C#.csproj|solutionrelative:c#\\zadanie2c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1D53F79-4630-DCA9-D6CC-403A31AD6ACF}|C#\\Zadanie1C#\\Zadanie1C#.csproj|g:\\studia wsb\\git\\zadanianaprzypomnieniepodstawyprogramowania\\c#\\zadanie1c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E1D53F79-4630-DCA9-D6CC-403A31AD6ACF}|C#\\Zadanie1C#\\Zadanie1C#.csproj|solutionrelative:c#\\zadanie1c#\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Zadanie1C#",
+              "DocumentMoniker": "G:\\Studia WSB\\GIT\\ZadaniaNaPrzypomnieniePodstawyProgramowania\\C#\\Zadanie1C#\\Zadanie1C#.csproj",
+              "RelativeDocumentMoniker": "C#\\Zadanie1C#\\Zadanie1C#.csproj",
+              "ToolTip": "G:\\Studia WSB\\GIT\\ZadaniaNaPrzypomnieniePodstawyProgramowania\\C#\\Zadanie1C#\\Zadanie1C#.csproj",
+              "RelativeToolTip": "C#\\Zadanie1C#\\Zadanie1C#.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-07T14:59:12.586Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Studia WSB\\GIT\\ZadaniaNaPrzypomnieniePodstawyProgramowania\\C#\\Zadanie1C#\\Program.cs",
+              "RelativeDocumentMoniker": "C#\\Zadanie1C#\\Program.cs",
+              "ToolTip": "G:\\Studia WSB\\GIT\\ZadaniaNaPrzypomnieniePodstawyProgramowania\\C#\\Zadanie1C#\\Program.cs",
+              "RelativeToolTip": "C#\\Zadanie1C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:59:16.045Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "G:\\Studia WSB\\GIT\\ZadaniaNaPrzypomnieniePodstawyProgramowania\\C#\\Zadanie2C#\\Program.cs",
+              "RelativeDocumentMoniker": "C#\\Zadanie2C#\\Program.cs",
+              "ToolTip": "G:\\Studia WSB\\GIT\\ZadaniaNaPrzypomnieniePodstawyProgramowania\\C#\\Zadanie2C#\\Program.cs",
+              "RelativeToolTip": "C#\\Zadanie2C#\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-07T14:59:23.147Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

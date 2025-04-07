@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "Zadanie3C#/1.0.0": {
+        "runtime": {
+          "Zadanie3C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zadanie3C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
