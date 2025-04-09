@@ -1,6 +1,6 @@
 print("Wybierz konwersje: ")
-print("C - Celcjusz na Fahrenheit: ")
-konwersja = (input("F - Fahrenheit na Celcjusz"))
+print("C - Celcjusz na Fahrenheit ")
+konwersja = (input("F - Fahrenheit na Celcjusz "))
 wartosc = float(input("Podaj wartość: "))
 
 

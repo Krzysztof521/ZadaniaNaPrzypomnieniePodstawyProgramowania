@@ -6,8 +6,8 @@ class Program
     static void Main(string[] args)
     {
            Console.WriteLine("Wybierz konwersje: ");
-           Console.WriteLine("C - Celcjusz na Fahrenheit: ");          
-           Console.WriteLine("F - Fahrenheit na Celcjusz");
+           Console.WriteLine("C - Celcjusz na Fahrenheit ");          
+           Console.WriteLine("F - Fahrenheit na Celcjusz ");
            string konwersja = Console.ReadLine();
            Console.WriteLine("Podaj wartość: ");
            double wartosc = Convert.ToDouble(Console.ReadLine());
@@ -25,7 +25,6 @@ class Program
             default:
                 Console.WriteLine("Nieprawidłowy wybór. ");
                 break;
-            // do sprawdzenia//
 
            }
 
